@@ -1,5 +1,5 @@
-# Two MOVNS-based algorithms for the unrelated parallel machine scheduling under time-of-use electricity price
-Instances of the article Two MOVNS-based algorithms for the unrelated parallel machine scheduling under time-of-use electricity price
+# MULTI-OBJECTIVE VARIABLE NEIGHBORHOOD SEARCH-BASED ALGORITHMS FOR THE UNRELATED PARALLEL MACHINE SCHEDULING UNDER TIME-OF-USE ELECTRICITY PRICE
+Instances of the article MULTI-OBJECTIVE VARIABLE NEIGHBORHOOD SEARCH-BASED ALGORITHMS FOR THE UNRELATED PARALLEL MACHINE SCHEDULING UNDER TIME-OF-USE ELECTRICITY PRICE
 
 We have three instances sets:
 - **Set 1** consisting of instances with 50 jobs and up to 20 machines;
